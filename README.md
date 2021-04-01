@@ -6,5 +6,4 @@ Addition, subtraction, multiplication and division operations implemented. Clean
 
 Made for a graduation discipline.
 
-<img src="images/calc1.png" width="300">
-<img src="images/calc2.png" width="300">
+<img src="images/calc1.png" width="400"><img src="images/calc2.png" width="400">
